@@ -1,0 +1,35 @@
+body{
+    background-color:blue;
+    color:white;
+}
+
+p{
+    color:yellow;
+}
+
+.linklink{
+    text-decoration: none;
+    color: red;
+}
+
+.program{
+    color: green;
+    background-color: greenyellow;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.super{
+    border: 6px solid greenyellow;
+    border-radius: 5px;
+}
+
+.tankar{
+    text-align: right;
+}
+
+.huvudrubrik{
+    font-family: arial;
+    font-size: 22px;
+}
